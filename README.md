@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Atualmente atuo criando e aprimorando funcionalidades em uma empresa de software de gestão de sistemas escolares - EDU3, principalmente utilizando Java. Tenho mais de 1 ano de experiência em desenvolvimento, e estou expandindo meus conhecimentos nas seguintes tecnologias: Kotlin, React, Next.js, Docker, entre outras.<br>Estou construindo minha jornada como desenvolvedor full-stack, com foco em backend e melhores práticas de desenvolvimento.</p>
+<p align="left">Atualmente atuo criando e aprimorando funcionalidades em uma empresa de software de gestão de sistemas escolares - EDU3, principalmente utilizando Java. Tenho mais de 1 ano de experiência em desenvolvimento, e estou expandindo meus conhecimentos nas seguintes tecnologias: Kotlin, React, Docker, entre outras.<br>Estou construindo minha jornada como desenvolvedor full-stack, com foco em backend e melhores práticas de desenvolvimento.</p>
 
 ###
 
