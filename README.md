@@ -37,15 +37,6 @@ PostgreSQL e testes de integração com Testcontainers.
   <img src="https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,postgres,mysql,docker,githubactions,git,maven,react,ts&perline=12" alt="Java, Kotlin, Spring, Hibernate, PostgreSQL, MySQL, Docker, GitHub Actions, Git, Maven, React, TypeScript" />
 </p>
 
-### Atividade
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/merlinmec/merlinmec/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/merlinmec/merlinmec/output/github-snake.svg" alt="Gráfico de contribuições animado" width="100%" />
-  </picture>
-</div>
-
 <sub><b>EN</b> · Backend Java developer from Brazil, working since 2023 on a school management platform serving 30+ schools (data migrations, query performance, hardware and government integrations). Personal projects in Java 21, Spring Boot and PostgreSQL. Open to remote roles.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:8b5cf6,100:6d28d9&section=footer" width="100%" alt="" />
